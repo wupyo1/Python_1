@@ -26,3 +26,5 @@ predictions = model.predict(x)
 # 결과 출력
 print("Predictions:")
 print(predictions)
+
+#수정_0119
