@@ -28,3 +28,5 @@ print("Predictions:")
 print(predictions)
 
 #수정_0119
+
+#수정_0119_2
